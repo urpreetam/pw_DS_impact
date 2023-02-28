@@ -1,1 +1,1 @@
-# pw_DS_impact
+PW Data science course
